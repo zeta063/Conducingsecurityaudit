@@ -26,7 +26,7 @@ This GitHub project is designed to facilitate the process of conducting a securi
 - Completed audit scope and objectives.
 - Vulnerabilities and findings documented.
 - Audit report and recommendations generated.
-- Security improvements implemented.
+- Security improvements implemented. 
 
   
 <b>Documentation</b>
