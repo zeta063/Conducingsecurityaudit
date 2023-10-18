@@ -12,12 +12,14 @@ This GitHub project is designed to facilitate the process of conducting a securi
 - Gather necessary documentation and resources.
 - Set a timeline and schedule for the audit.
 
+
 <b>In Progress</b>
 
 - Conduct vulnerability assessments.
 - Review security policies and procedures.
 - Perform penetration testing.
 - Analyze access control and user permissions.
+
   
 <b>Completed</b>
 
@@ -25,6 +27,7 @@ This GitHub project is designed to facilitate the process of conducting a securi
 - Vulnerabilities and findings documented.
 - Audit report and recommendations generated.
 - Security improvements implemented.
+
   
 <b>Documentation</b>
 
@@ -32,6 +35,7 @@ This GitHub project is designed to facilitate the process of conducting a securi
 - Document findings and vulnerabilities.
 - Generate a final audit report.
 - Store relevant documentation and resources.
+
   
 <b>Resources</b>
 
@@ -39,10 +43,12 @@ This GitHub project is designed to facilitate the process of conducting a securi
 - References and guidelines.
 - Training materials for the audit team.
 - External resources for further research.
+
   
 <b>Issues</b>
 
 - Any open issues or challenges encountered during the audit.
+
   
 <b>Customize and Expand:</b>
 You can further customize this project to fit the specific needs of your security audit. You may want to create additional columns or tasks as necessary. Additionally, you can assign team members to tasks, set due dates, and use labels to categorize issues and tasks.
